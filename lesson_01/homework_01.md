@@ -43,11 +43,8 @@ https://www.smashingmagazine.com/, https://css-tricks.com/. Открывать
 Панель Network, фильтр `collect`, галочка Preserve log. Название события
 лежит в параметре `en` на вкладке Payload.
 
-В первой строке стоит пример. **Удалите его** и впишите свои три.
-
 | № | Что я сделал на сайте | Название события (`en`) | Что ещё было в Payload |
 |---|---|---|---|
-| — | *пример: открыл главную страницу* | *`page_view`* | *`dl`, в нём адрес страницы* |
 | 1 | обновил страницу | *`page_view`* | *`dl`* - адрес главной страницы (https://shop.merch.google)<br> *`dt`* - заголовок страницы (Home)  |
 | 2 | прокрутил до низа | *`scroll`* | *`dl`* — (https://shop.merch.google)<br> *`dt`* — Home <br> *`epn.percent_scrolled`* — `90` (глубина прокрутки — 90%)  |
 | 3 | нажал на товар (или на ссылку) | *`view_item`* | *`dl`* — адрес страницы товара Google Limited Edition Sundown Cap (https://shop.merch.google/product/google-limited-edition-sundown-cap-gmssghpd111899?itemListName=Category) <br> *`dt`* — Google Limited Edition Sundown Cap  Google Merch Shop <br> *`ep.item_list_name`* — Category (откуда пришел пользователь к просмотру товара)|
