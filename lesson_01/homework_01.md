@@ -35,7 +35,7 @@ https://www.smashingmagazine.com/, https://css-tricks.com/. Открывать
 | Поле | Значение |
 |---|---|
 | Название сайта | Google Merch Shop |
-| Адрес | https://shop.merch.google/ |
+| Адрес | https://shop.merch.google/  |
 | Откуда сайт | из списка в задании |
 
 ## 2. Три действия и что отправил счётчик
