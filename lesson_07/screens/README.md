@@ -1,5 +1,23 @@
 # Скриншоты задания 7
 
+![Instagram подключён к ManyChat](01-connected.png)
+
+![Flow Builder целиком, статус Live](02-flow.png)
+
+![Триггер: Specific Post и гайд](03-trigger.png)
+
+![Комментарий и автоматический ответ](04-comment.png)
+
+![Сообщение в Direct с кнопкой](05-direct.png)
+
+![guide.html с UTM в адресной строке](06-guide-utm.png)
+
+![page_view и generate_lead в GA4](07-ga4.png)
+
+![Строка заявки из Instagram в листе leads](08-lead.png)
+
+
+
 Формат PNG. Имена файлов:
 
 | Файл | Что на кадре |
